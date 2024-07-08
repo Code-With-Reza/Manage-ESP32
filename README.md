@@ -1,2 +1,2 @@
-# Manage-ESP32
-Simple PWA iFrame 192.168.4.1 ESP32
+ # About
+ For easy to use access with separate customizeable window wmthat function to provide an interface between ESP32 webserver and PWA API
