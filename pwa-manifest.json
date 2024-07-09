@@ -1,6 +1,6 @@
 {
-    "name": "ESP Manage",
-    "short_name": "ESP AP",
+    "name": "ESP Manager",
+    "short_name": "ESP MAN",
     "description": "ESP32 Manager using PWA.",
     "icons": [
         {
